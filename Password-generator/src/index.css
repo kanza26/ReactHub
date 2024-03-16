@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities {
+    .left-20{
+        left:20%;
+    }
+    .left-10{
+        left:10%;
+    }
+    .top-5{
+        top:5%;
+    }
+    .top-20{
+        top:20%;
+    }
+    .top-30{
+        top:30%;
+    }
+    .top-40{
+        top:40%;
+    }
+    .top-50{
+        top:50%;
+    }
+    .top-60{
+        top:60%;
+    }
+    .top-70{
+        top:70%;
+    }
+    .top-80{
+        top:80%;
+    }
+  
+
+    
+}
+    
+
+    
