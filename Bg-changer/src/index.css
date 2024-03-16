@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.min-w-90{
+  position: relative;
+  height: 60%;
+  width: 7%;
+  margin:1% 1%;
+  padding: 0%;
+  border: 1px solid black;
+}
+.min-h{
+  position: absolute;
+  height: 7%;
+  width:70%
+}
